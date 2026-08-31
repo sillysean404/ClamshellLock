@@ -1,6 +1,6 @@
 # ClamshellLock
 
-<p align="center">
+<p>
   <img src="icon.png" alt="ClamshellLock app icon" width="128">
 </p>
 
